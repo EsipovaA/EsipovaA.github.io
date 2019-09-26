@@ -1,0 +1,12 @@
+@startuml
+skinparam class {
+	BackgroundColor White
+	ArrowColor Black
+	BorderColor Black
+}
+class "Бухгалтер" as P {
+ ПК
+З/п Расчет з/п на предприятии (Данные СКУД. В соответствии с нормативными документами)
+}
+hide circle
+@enduml
