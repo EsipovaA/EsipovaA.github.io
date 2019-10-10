@@ -25,7 +25,25 @@
 
 
 ## Лабораторная 2
+### Определение надсистемы (среды функционирования)
+* IDEF0-диаграмма (блок A0)
 
+![blah](https://github.com/EsipovaA/EsipovaA.github.io/blob/master/lab2/%D0%BC2.png )
+
+* IDEF0-диаграмма (блоки A1, A2, A3)
+
+![blah](https://github.com/EsipovaA/EsipovaA.github.io/blob/master/lab2/%D0%BC22.png )
+
+### Определение автоматизируемых видов деятельности
+* DFD-диаграмма "Составление рабочего плана" (блок A1-02)
+
+![blah](https://github.com/EsipovaA/EsipovaA.github.io/blob/master/lab2/%D0%BC222.png)
+
+* [Диаграмма в формате .rsf](https://github.com/EsipovaA/EsipovaA.github.io/blob/master/lab2/%D0%BC%D0%BE%D0%B4%D0%B5%D0%BB%D1%8C%20ramus4.rsf)
+
+### Описание участников автоматизируемой деятельности
+* [Текст](https://github.com/EsipovaA/EsipovaA.github.io/blob/master/lab2/%D0%B4%D0%B8%D0%B0%D0%B3%D1%80%D0%B0%D0%BC%D0%BC%D0%B02.txt) и [рисунок](https://github.com/EsipovaA/EsipovaA.github.io/blob/master/lab2/%D0%B4%D0%B8%D0%B0%D0%B3%D1%80%D0%B0%D0%BC%D0%BC%D0%B0%20%D0%BF%D1%80%D0%B5%D1%86%D0%B5%D0%B4%D0%B5%D0%BD%D1%82%D0%BE%D0%B22.png) Диаграммы прецедентов
+![blah](https://github.com/EsipovaA/EsipovaA.github.io/blob/master/lab2/%D0%B4%D0%B8%D0%B0%D0%B3%D1%80%D0%B0%D0%BC%D0%BC%D0%B0%20%D0%BF%D1%80%D0%B5%D1%86%D0%B5%D0%B4%D0%B5%D0%BD%D1%82%D0%BE%D0%B22.png)
 ## Лабораторная 3
 
 ## Лабораторная 4
