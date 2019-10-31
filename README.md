@@ -46,6 +46,26 @@
 ![blah](https://github.com/EsipovaA/EsipovaA.github.io/blob/master/lab2/%D0%B4%D0%B8%D0%B0%D0%B3%D1%80%D0%B0%D0%BC%D0%BC%D0%B0%20%D0%BF%D1%80%D0%B5%D1%86%D0%B5%D0%B4%D0%B5%D0%BD%D1%82%D0%BE%D0%B22.png)
 ## Лабораторная 3
 
+### Описание хранилищ данных
+
+* DFD-диаграмма "Оформление поставок" (блок A3-03)
+
+![blah](https://github.com/EsipovaA/EsipovaA.github.io/blob/master/lab3/%D0%BB%D0%B0%D0%B13%20%D1%8E%D0%BC%D0%BB.png)
+
+* [Диаграмма формате .rsf](https://github.com/EsipovaA/EsipovaA.github.io/blob/master/lab3/%D0%BC%D0%BE%D0%B4%D1%83%D0%BB%D1%8C%20%D1%8E%D0%BC%D0%BB%203%D0%BB%D0%B0%D0%B1.txt)
+
+### Описание взаимодействия участников автоматизируемой деятельности
+
+* [Текст](https://github.com/) и [рисунок](http://www.plantuml.com/plantuml)
+диаграммы последовательности<br>
+![blah](http://www.plantuml.com/plantuml)
+
+### Описание участников автоматизируемой деятельности
+
+* [Текст](https://github.com) и [рисунок](http://www.plantuml.com/plantuml/)
+диаграммы классов<br>
+![blah](http://www.plantuml.com/)
+***
 ## Лабораторная 4
 
 ## Лабораторная 5
