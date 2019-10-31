@@ -50,15 +50,15 @@
 
 * DFD-диаграмма "Оформление поставок" (блок A3-03)
 
-![blah](https://github.com/EsipovaA/EsipovaA.github.io/blob/master/lab3/%D0%BB%D0%B0%D0%B13%20%D1%8E%D0%BC%D0%BB.png)
+![blah](https://github.com/EsipovaA/EsipovaA.github.io/blob/master/lab3/%D0%BB%D0%B0%D0%B13%20%D1%80%D0%B0%D0%BC%D1%83%D1%81.png)
 
-* [Диаграмма формате .rsf](https://github.com/EsipovaA/EsipovaA.github.io/blob/master/lab3/%D0%BC%D0%BE%D0%B4%D1%83%D0%BB%D1%8C%20%D1%8E%D0%BC%D0%BB%203%D0%BB%D0%B0%D0%B1.txt)
+* [Диаграмма формате .rsf](https://github.com/EsipovaA/EsipovaA.github.io/blob/master/lab3/%D0%BC%D0%BE%D0%B4%D0%B5%D0%BB%D1%8C%20ramus5.rsf)
 
 ### Описание взаимодействия участников автоматизируемой деятельности
 
-* [Текст](https://github.com/) и [рисунок](http://www.plantuml.com/plantuml)
+* [Текст](https://github.com/EsipovaA/EsipovaA.github.io/blob/master/lab3/%D0%BC%D0%BE%D0%B4%D1%83%D0%BB%D1%8C%20%D1%8E%D0%BC%D0%BB%203%D0%BB%D0%B0%D0%B1.txt) и [рисунок](https://github.com/EsipovaA/EsipovaA.github.io/blob/master/lab3/%D0%BB%D0%B0%D0%B13%20%D1%8E%D0%BC%D0%BB.png)
 диаграммы последовательности<br>
-![blah](http://www.plantuml.com/plantuml)
+![blah](https://github.com/EsipovaA/EsipovaA.github.io/blob/master/lab3/%D0%BB%D0%B0%D0%B13%20%D1%8E%D0%BC%D0%BB.png)
 
 ### Описание участников автоматизируемой деятельности
 
