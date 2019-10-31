@@ -62,9 +62,9 @@
 
 ### Описание участников автоматизируемой деятельности
 
-* [Текст](https://github.com) и [рисунок](http://www.plantuml.com/plantuml/)
+* [Текст](https://github.com/EsipovaA/EsipovaA.github.io/blob/master/lab3/%D1%8E%D0%BC%D0%BB2%20%D0%BB%D0%B0%D0%B133.txt) и [рисунок](https://github.com/EsipovaA/EsipovaA.github.io/blob/master/lab3/%D1%8E%D0%BC%D0%BB2%20%D0%BB%D0%B0%D0%B13.png)
 диаграммы классов<br>
-![blah](http://www.plantuml.com/)
+![blah](https://github.com/EsipovaA/EsipovaA.github.io/blob/master/lab3/%D1%8E%D0%BC%D0%BB2%20%D0%BB%D0%B0%D0%B13.png)
 ***
 ## Лабораторная 4
 
