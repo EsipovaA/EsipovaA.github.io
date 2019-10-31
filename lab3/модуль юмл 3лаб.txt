@@ -1,0 +1,27 @@
+@startuml
+?
+skinparam actor {
+	BackgroundColor White
+	ArrowColor Black
+	BorderColor Black
+}
+autonumber
+
+actor "Руководитель" as user
+database "Информация о сотрудниках" as app
+boundary "Бухгалтерия" as app2
+
+user -> app: Запрос
+activate app
+app->user: Отчет по кадрам
+deactivate app
+
+user --> app2: Рабочий план
+activate app2
+app <- app2: Оценка выполнения
+activate app
+app->app2: Расчетная ведомость
+deactivate app
+app2->user: Расчет з/п
+deactivate app2
+@enduml
